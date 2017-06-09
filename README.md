@@ -1,7 +1,7 @@
 # Game_2048PlusTetris
 It is a school project. </br>
 Though the requirements were very low, </br>
-but out of my interest, I have tried to make the game with smooth control &amp; better gaming experience.</br>
+but out of my interest, I have tried to make the control more smooth &amp; provide a better gaming experience.</br>
 
 In fact, the project just combined 2048 & Tetris these 2 famous games together.</br>
 Link to online 2048 game (In case the link is dead, those who do not know about this game may need to search for other links):</br>
